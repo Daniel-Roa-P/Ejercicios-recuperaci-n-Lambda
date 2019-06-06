@@ -1,3 +1,3 @@
-# Ejercicios-recuperaci-n-Lambda
+# Ejercicios-recuperación-Lambda
 
 + Daniel Alejandro Roa Palacios.
